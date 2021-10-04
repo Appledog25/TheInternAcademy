@@ -2,7 +2,7 @@ const header = document.createElement('header');
 header.innerHTML = `
 <div class="container">
 <nav class="nav">
-		<a href="index.html" class="logo">SHAKTH</a>
+		<a href="index.html" class="logo">TechHub</a>
 		<ul class="nav-list">
 				<li>
 						<a href="index.html" class="nav-link">Home</a>
