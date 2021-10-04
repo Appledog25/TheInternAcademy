@@ -1,4 +1,4 @@
-import { loop, setVideo } from "./upNext.js";
+import { loop, setVideo } from "../js/upNext";
 
 const indexes = [
 	{
